@@ -1,5 +1,5 @@
 # Connection-less-Oriented-File-Server-Design
-Implementation of UDP file servers
+Implementation of UDP file servers using Socket Programming C
 
 
 The following UDP file servers are implmented. 1.Iterative server 2.Concurrent Multiprocessing server with one process per request 3.Concurrent Multithreading server with one thread per request 4.Concurrent Pre-forked Multiprocessing server 5.Concurrent Pre-threaded Multithreading server
